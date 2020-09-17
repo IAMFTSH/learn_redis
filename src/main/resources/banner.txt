@@ -1,0 +1,19 @@
+                                .::::.${AnsiColor.BRIGHT_MAGENTA}
+                              .::::::::.${AnsiColor.BRIGHT_RED}
+                              :::::::::::${AnsiColor.BRIGHT_CYAN}
+                              ':::::::::::..${AnsiColor.BRIGHT_GREEN}
+                               :::::::::::::::'${AnsiColor.BRIGHT_YELLOW}
+                                ':::::::::::.${AnsiColor.BRIGHT_CYAN}
+                                  .::::::::::::::'${AnsiColor.BRIGHT_YELLOW}
+                                .:::::::::::...${AnsiColor.BRIGHT_MAGENTA}
+                               ::::::::::::::''${AnsiColor.BRIGHT_RED}
+                   .:::.       '::::::::''::::${AnsiColor.BRIGHT_MAGENTA}
+                 .::::::::.      ':::::'  '::::${AnsiColor.BRIGHT_GREEN}
+                .::::':::::::.    :::::    '::::.${AnsiColor.BRIGHT_CYAN}
+              .:::::' ':::::::::. :::::      ':::.${AnsiColor.BRIGHT_RED}
+            .:::::'     ':::::::::.:::::       '::.${AnsiColor.BRIGHT_MAGENTA}
+          .::::''         '::::::::::::::       '::.${AnsiColor.BRIGHT_CYAN}
+         .::''              '::::::::::::         :::...${AnsiColor.BRIGHT_GREEN}
+      ..::::                  ':::::::::'        .:' ''''${AnsiColor.BRIGHT_BLACK}
+   ..''''':'                    ':::::.'${AnsiColor.BRIGHT_MAGENTA}
+          springboot.version      ${spring-boot.version}
